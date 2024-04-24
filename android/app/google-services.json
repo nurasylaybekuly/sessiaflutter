@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002941394407",
+    "project_id": "catwash",
+    "storage_bucket": "catwash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002941394407:android:83469fff215beb622ae142",
+        "android_client_info": {
+          "package_name": "com.example.flutter_carwash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeKOhQwNx4FrWHSLdRDkmumccWpLwdAPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "username": "Write Your Name",
+    "usernumber": "Write Your Number",
+    "usermail": "Write Your Mail",
+    "userpassword": "Create Password",
+    "usercity": "Select City",
+    "name": "Full Name",
+    "number": "Phone Number",
+    "city": "City",
+    "mail": "Mail",
+    "register": "Registration"
+}
